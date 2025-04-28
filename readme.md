@@ -117,9 +117,13 @@ Input Size: (256 x 512)
 ## 🧩 Important Functions
 
 Function                     | Purpose
+
 encode_segmap()              | Maps original labels to training labels
+
 decode_segmap()              | Converts label masks back to colored masks
+
 MyClass                      | Custom Dataset class with Albumentations transforms
+
 OurModel                     | LightningModule for training and validation
 '''
 

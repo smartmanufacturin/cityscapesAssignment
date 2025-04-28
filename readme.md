@@ -26,7 +26,7 @@ It uses modern tools like PyTorch Lightning, segmentation_models_pytorch, and Al
 🎨 Colorful visualization of segmentation masks
 
 ```
-## 📂 Project Structure
+📂 Project Structure
 
 VJProject/
 ├── src/

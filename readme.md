@@ -12,6 +12,7 @@ This project implements semantic segmentation using the UNet architecture with a
 It uses modern tools like PyTorch Lightning, segmentation_models_pytorch, and Albumentations for faster development and reproducibility.
 
 ✨ Key Features
+
 🔥 UNet architecture with a ResNet-34 backbone
 
 🚀 Fast training with PyTorch Lightning

@@ -143,8 +143,11 @@ Pixel Accuracy: 0.92
 
 
 ##🏆 Results
+
 ✅ Successfully segmented 20 valid classes from the Cityscapes dataset.
+
 ✅ Achieved high IoU scores with colorful and detailed masks.
+
 ✅ Model trained efficiently on GPU.
 
 

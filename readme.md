@@ -89,14 +89,6 @@ Pillow
 
 matplotlib
 
-3. Download Cityscapes Dataset
-Download the dataset from the Cityscapes Website.
-
-
-4. Train the Model
-
-python train.py
-or inside Kaggle/Jupyter Notebook.
 
 ## 🛠️ Model Architecture
 Encoder: ResNet-34 pretrained on ImageNet

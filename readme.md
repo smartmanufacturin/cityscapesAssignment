@@ -142,7 +142,7 @@ Dice Coefficient: 0.85
 Pixel Accuracy: 0.92
 
 
-##🏆 Results
+## 🏆 Results
 
 ✅ Successfully segmented 20 valid classes from the Cityscapes dataset.
 

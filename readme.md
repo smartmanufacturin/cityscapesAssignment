@@ -135,9 +135,9 @@ Early Stopping    | patience=5
 ## 📊 Metrics
 The following metrics were used to evaluate the performance of the segmentation model:
 
-Intersection over Union (IoU): 0.8
+Intersection over Union (IoU): 0.8040
 
-Dice Coefficient: 0.85
+Dice Coefficient: 0.8507
 
 Pixel Accuracy: 0.92
 

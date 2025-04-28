@@ -92,11 +92,6 @@ matplotlib
 3. Download Cityscapes Dataset
 Download the dataset from the Cityscapes Website.
 
-Structure it like:
-
-/data/cityscapes/
-    ├── leftImg8bit/
-    └── gtFine/
 
 4. Train the Model
 

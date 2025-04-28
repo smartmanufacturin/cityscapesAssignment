@@ -130,9 +130,13 @@ OurModel                     | LightningModule for training and validation
 ## ⚙️ Training Parameters
 
 Parameter         | Value
+
 Batch Size        | 16
+
 Workers           | 4
+
 Epochs            | 200
+
 Early Stopping    | patience=5
 
 
